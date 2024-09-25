@@ -1,12 +1,14 @@
 # Personal Business card
 
+![Static Badge](https://img.shields.io/badge/kotlin-2.0.20-blue?logo=kotlin)
+![Static Badge](https://img.shields.io/badge/android_studio-24.1.2-green?logo=android%20studio)
+![Static Badge](https://img.shields.io/badge/jetpack_compose-1.7.2-blue?logo=jetpack%20compose)
+
+
 Jetpack compose Layout project to practice composables using android studio
-Following [developer.android.com](https://developer.android.com/) official colelabs
+Following [developer.android.com](https://developer.android.com/) official codelabs
 
 ## Screenshots
 
 
-<p align="center">
-![01](https://github.com/user-attachments/assets/5e62690a-e76b-4f81-85a4-4b5008df7fb7)
-    <img src="![01](https://github.com/user-attachments/assets/a39a1d48-045f-4520-9b7a-2d0f9cab6219)" width="200">
-</p>
+<img src="https://github.com/user-attachments/assets/bbf72295-c551-427e-a6d4-d2a2903c4e80" width="200"/>
